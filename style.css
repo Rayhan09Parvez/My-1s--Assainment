@@ -1,0 +1,28 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 500px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.half-width img {
+    width: 120%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: brown;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
